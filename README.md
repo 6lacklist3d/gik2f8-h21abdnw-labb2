@@ -1,7 +1,5 @@
 # GIK2F8
 
-Här lagras kod för kursen GIK2F8.
+Testa stör när jag sitter och labbar
 
-## Labbar
-
-Kod för Lektion 4 (Utgångspunkt för Labb 1), samt Lektion 5 och 6 (Utgångspunkt för Labb 2) är uppdaterad med kommentarer som beskriver vad som händer i koden.
+a simple Todo application that update & validate tasks.
